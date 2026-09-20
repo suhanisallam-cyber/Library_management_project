@@ -1,0 +1,16 @@
+book_id,title,author_id,category,publication_year,total_copies,available_copies
+101,Harry Potter and the Philosopher's Stone,1,Fantasy,1997,5,3
+102,Harry Potter and the Chamber of Secrets,1,Fantasy,1998,4,2
+103,1984,2,Fiction,1949,6,4
+104,Animal Farm,2,Fiction,1945,5,3
+105,The Da Vinci Code,3,Mystery,2003,5,2
+106,Angels and Demons,3,Mystery,2000,4,3
+107,Five Point Someone,4,Fiction,2004,6,4
+108,The 3 Mistakes of My Life,4,Fiction,2008,5,4
+109,Malgudi Days,5,Fiction,1943,4,3
+110,The Guide,5,Fiction,1958,4,2
+111,Murder on the Orient Express,6,Mystery,1934,5,3
+112,A Brief History of Time,7,Science,1988,5,4
+113,Sapiens,8,History,2011,6,5
+114,The Alchemist,9,Philosophy,1988,7,5
+115,Gitanjali,10,Poetry,1910,4,3

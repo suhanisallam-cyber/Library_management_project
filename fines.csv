@@ -1,0 +1,8 @@
+fine_id,borrowing_id,fine_amount,payment_status
+401,303,50,Unpaid
+402,306,25,Unpaid
+403,309,40,Paid
+404,312,30,Unpaid
+405,314,20,Paid
+406,316,15,Unpaid
+407,319,10,Unpaid
